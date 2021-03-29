@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning Java.
 
