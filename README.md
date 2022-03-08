@@ -1,5 +1,5 @@
-### Hi there 👋
-- My name is Thiago!
-- I'm 16 years old!
-- 🌱 I’m currently learning C++ and Linux OS
+### Apresentação 👋
+- Meu nome é Thiago!
+- Tenho 17 anos.
+- 🌱 Atualmente estou aprendendo C++ e Linux OS e eletrônica.
 
